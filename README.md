@@ -1,6 +1,6 @@
-# Bitcore Node
+# Htmlcoin Node
 
-**A full node with extended capabilities using Bitcoin Core.**
+**A full node with extended capabilities using Htmlcoin Core.**
 
 ## Setup Guide
 
