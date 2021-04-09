@@ -1,0 +1,11 @@
+[Unit]
+Description=Bitcore Node
+After=network.target
+
+[Service]
+User=htmlcore
+Group=htmlcore
+ExecStart=/usr/bin/node /home/htmlcore/htmlcore/packages/htmlcore-node/server.js
+
+[Install]
+WantedBy=multi-user.target
